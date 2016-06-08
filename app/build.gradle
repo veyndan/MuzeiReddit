@@ -29,4 +29,11 @@ dependencies {
 
     // Muzei
     compile 'com.google.android.apps.muzei:muzei-api:+'
+
+    // Reddit
+    compile 'com.github.veyndan:rawjava:f8d8c51d5c'
+
+    // RxJava
+    compile 'io.reactivex:rxandroid:1.2.0'
+    compile 'io.reactivex:rxjava:1.1.5'
 }
