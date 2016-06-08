@@ -31,7 +31,7 @@ dependencies {
     compile 'com.google.android.apps.muzei:muzei-api:+'
 
     // Reddit
-    compile 'com.github.veyndan:rawjava:f8d8c51d5c'
+    compile 'com.github.veyndan:rawjava:c9f2f1cad3'
 
     // RxJava
     compile 'io.reactivex:rxandroid:1.2.0'
